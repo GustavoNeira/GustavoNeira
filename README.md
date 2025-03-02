@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-¡Hola! Soy un programador de 24 años de Chile, con muchas ganas de aprender y seguir creciendo en el mundo de la tecnología. Me encanta colaborar en proyectos, aportar soluciones creativas y mejorar constantemente mis habilidades. Siempre busco nuevos desafíos y oportunidades para seguir aprendiendo y superándome. Si estás buscando a alguien comprometido y con ganas de contribuir, ¡no dudes en contactarme!
+¡Hola! Soy programador chileno tengo 24 años, con muchas ganas de aprender y seguir creciendo en el mundo de la tecnología. Me encanta colaborar en proyectos, aportar soluciones creativas y mejorar constantemente mis habilidades. Siempre busco nuevos desafíos y oportunidades para seguir aprendiendo y superándome. Si estás buscando a alguien comprometido y con ganas de contribuir, ¡no dudes en contactarme!
 
 
 ## 🌐 Redes:
