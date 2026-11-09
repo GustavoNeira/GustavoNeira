@@ -13,7 +13,7 @@
 
 ¡Hola! Soy **Gustavo Neira**, Desarrollador Full Stack e Ingeniero en Informática de Rancagua, Chile.
 
-Desde 2020 he desarrollado sistemas web para distintos rubros: un sistema de inventario para un hospital, sitios y sistemas internos para empresas, APIs y bases de datos, y en mi último trabajo, sistemas para la minería (Codelco, División El Teniente) usados por miles de personas. También trabajé en soporte TI, lo que me enseñó a ver la tecnología desde el lado de quien la usa.
+Desde 2020 he desarrollado sistemas web para distintos rubros: sistema de inventario, sitios y sistemas internos para empresas, APIs y bases de datos, y en mi último trabajo, sistemas para la minería (Codelco, División El Teniente) usados por miles de personas. También trabajé en soporte TI, lo que me enseñó a ver la tecnología desde el lado de quien la usa.
 
 Me gusta construir sistemas de principio a fin, trabajar cerca del usuario para entender lo que realmente necesita, y aprender: cuando algo no lo conozco, investigo y pregunto hasta entenderlo.
 
