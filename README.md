@@ -37,8 +37,4 @@ Me gusta construir sistemas de principio a fin, trabajar cerca del usuario para 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GustavoNeira&theme=react&hide_border=true" />
-</p>
